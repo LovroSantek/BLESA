@@ -1,0 +1,4 @@
+*.py
+components/
+cache/
+backup/
