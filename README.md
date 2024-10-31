@@ -1,7 +1,3 @@
-Your project documentation is quite clear and well-structured! Here are some suggestions for improving clarity and readability while maintaining your original intent:
-
----
-
 # BLESA Final Project
 This project was created as part of the ByteLab Embedded Software Academy 2024.
 
